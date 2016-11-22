@@ -1,7 +1,7 @@
 {
   "name": "angular-convertjp",
-  "version": "0.0.1",
-  "description": "AngularJS 1.x directive for converting Japanse on the fly",
+  "version": "0.0.2",
+  "description": "AngularJS 1.x directive for converting Japanese on the fly",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,7 @@
     "hankaku"
   ],
   "author": "sengokyu",
-  "license": "MIT",
+  "license": "BSD-2-clause",
   "bugs": {
     "url": "https://github.com/sengokyu/angular-convertjp/issues"
   },

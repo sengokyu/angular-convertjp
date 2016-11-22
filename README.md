@@ -33,7 +33,7 @@ Only convert from full-width alphanumeric to half-width.
 
 # known issue
 
-- dakute, han-dakuten not supported.
+- dakuten, han-dakuten are not supported.
 
 
 
