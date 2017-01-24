@@ -1,6 +1,6 @@
 {
-  "name": "angular-convertjp",
-  "version": "0.0.2",
+  "name": "angular-convert-jp",
+  "version": "0.1.0",
   "description": "AngularJS 1.x directive for converting Japanese on the fly",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,12 @@
   },
   "homepage": "https://github.com/sengokyu/angular-convertjp#readme",
   "devDependencies": {
-    "karma": "^1.3.0"
+    "angular": "^1.6.1",
+    "angular-mocks": "^1.6.1",
+    "jasmine": "^2.5.3",
+    "jasmine-matchers": "^0.2.3",
+    "karma": "^1.3.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.2"
   }
 }
